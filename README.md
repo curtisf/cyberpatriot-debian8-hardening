@@ -1,6 +1,7 @@
 ### Debian 8 Hardening Checklist
 <hr />
-These aren't in any particular order.
+These aren't in any particular order. <br />
+
 * Read the README
 * Enable the firewall (ufw)
 ```bash

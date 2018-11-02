@@ -25,7 +25,7 @@ ls
 ```
 * Optional: If you can't delete files or users
 ```bash
-sudo usermod -l username
+sudo usermod -L username
 ```
 * Check repo list
 ```bash
@@ -203,4 +203,7 @@ service icmp stop # Router communication protocol
 service sendmail stop # Type of email server
 service dovecot stop # Type of email server
 service --status-all | grep "+" # shows programs with a return code of 0 (C/C++ users will understand), which is non-native programs
+
+
+* Disable Remote Desktop
 ```

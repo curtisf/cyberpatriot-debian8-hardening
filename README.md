@@ -1,6 +1,7 @@
 ### Debian 8 Hardening Checklist
 <hr />
 These aren't in any particular order. <br />
+### DO PAM STUFF LAST! IT CAN IRREVERSIBLY SCREW YOUR IMAGE UP!
 
 * Read the README
 * Enable the firewall (ufw)

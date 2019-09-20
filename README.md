@@ -1,4 +1,5 @@
 ### Debian 8 Hardening Checklist
+<b>Make sure that you don't blindly copy and paste anything! It's imperative for you as a problem solver to understand what each of these things does before you run them, and even then, inspect what the machine says it's going to do.</b>
 <hr />
 These aren't in any particular order. <br />
 
